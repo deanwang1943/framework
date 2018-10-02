@@ -23,6 +23,7 @@
     <modules>
         <module>rabbitmq-learn</module>
         <module>redis-learn</module>
+        <module>dubbo-learn</module>
     </modules>
 
     <dependencyManagement>
